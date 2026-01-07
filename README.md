@@ -11,4 +11,4 @@
 
 1)after navigating to colab , click on runtime
 
-2) then click on Change runtime type, under Hardware accelerator choose T4 GPU
+2)then click on Change runtime type, under Hardware accelerator choose T4 GPU
